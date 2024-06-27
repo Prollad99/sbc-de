@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3.3'
+gem 'jekyll', '~> 4.0'
 gem 'jekyll-sitemap'
 gem 'jekyll-last-modified-at'
