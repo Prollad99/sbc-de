@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Us"
-permalink: /about-us/
+permalink: /p/about-us.html
 ---
 
 Willkommen bei Prollad Mondal's Slotpark Bonus Codes.
