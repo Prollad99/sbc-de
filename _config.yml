@@ -8,3 +8,8 @@ description: Slotpark Bonus Codes sind Promotion-Codes, die Spieler verwenden k√
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+collections:
+  pages:
+    output: true
+
