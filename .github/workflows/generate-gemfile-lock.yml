@@ -1,0 +1,30 @@
+name: Generate Gemfile.lock
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.7'  # Specify the Ruby version
+
+    - name: Install Bundler
+      run: gem install bundler
+
+    - name: Bundle install
+      run: bundle install
+
+    - name: Commit Gemfile.lock
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add Gemfile.lock
+        git commit -m 'Add Gemfile.lock' || echo "No changes to commit"
+        git push
