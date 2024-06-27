@@ -6,7 +6,5 @@ title: Slotpark Bonus Code - Juni 2024
 description: Slotpark Bonus Codes sind Promotion-Codes, die Spieler verwenden können, um spezielle Boni und Belohnungen im Slotpark Handyspiel zu erhalten.
 
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  # ... other plugins you use
