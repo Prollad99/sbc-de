@@ -1,10 +1,26 @@
----
-layout: default
----
-
-<div class="card shadow-sm mb-2">
-  <div class="card-body">
-          <h1 class="card-title">{{ page.title }}</h1>
-          <div class="card-text">{{ content }}</div>
-        </div>
-      </div>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/privacy/">Privacy</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }}</p>
+  </footer>
+</body>
+</html>
