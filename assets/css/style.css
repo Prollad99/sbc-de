@@ -9,7 +9,9 @@ line-height:1.625;
   margin: 0;
   background-color: #efe9e9;
 }
-
+a {
+text-decoration: none;
+}
 .reward {
   border-collapse: separate;
   border-spacing: 0;
