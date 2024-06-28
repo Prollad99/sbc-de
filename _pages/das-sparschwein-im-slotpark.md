@@ -12,11 +12,11 @@ Wenn Sie bei Slotpark spielen, fließt ein Teil Ihres Einsatzes in ein spezielle
 
 Sie finden Ihr Sparschwein im Hauptbereich.
 
-<img alt="das sparscweinnin in slotpark" width="100%" src="/assets/images/Das-Sparschwein-in-Slotpark.jpg"/>
+![das sparscweinnin in slotpark](/assets/images/Das-Sparschwein-in-Slotpark.jpg)
 
 Wie ein echtes Sparschwein wird es eines Tages ganz voll sein. Das ist der beste Zeitpunkt, um es zu öffnen, aber du kannst es auch früher öffnen, wenn du willst.
 
-<img alt="das sparscweinnin in slotpark" width="100%" src="/assets/images/Das-Sparschwein.jpg"/>
+![das sparscweinnin in slotpark](/assets/images/Das-Sparschwein.jpg)
 
 ## Ich habe versucht, mein Sparschwein zu öffnen, aber jetzt lässt es sich nicht mehr öffnen. Warum?
 
