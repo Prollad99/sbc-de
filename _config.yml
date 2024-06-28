@@ -1,8 +1,6 @@
 url: "https://slotparkbonuscode.de"  # Replace with your site's URL
 baseurl: ""  # Leave this empty if your site is at the root of the domain
 
-permalink: pretty
-
 title: Slotpark Bonus Code - Juni 2024
 
 description: Slotpark Bonus Codes sind Promotion-Codes, die Spieler verwenden können, um spezielle Boni und Belohnungen im Slotpark Handyspiel zu erhalten.
@@ -15,16 +13,21 @@ collections:
   pages:
     output: true
 
+sitemap:
+  exclude: ["404.html"]
+  include_posts: false
+  changefreq: "monthly"
+  priority: 0.5
+
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
-      changefreq: "daily"
+      changefreq: "monthly"
       priority: 0.5
 
-sitemap:
-  exclude: ["404.html"]
-  include_posts: false
+# Configure the home page separately if needed
+home:
   changefreq: "daily"
-  priority: 0.5
+  priority: 1.0
