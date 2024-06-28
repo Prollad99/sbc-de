@@ -1,8 +1,6 @@
-# _config.yml
 permalink: pretty
 
 title: Slotpark Bonus Code - Juni 2024
-
 description: Slotpark Bonus Codes sind Promotion-Codes, die Spieler verwenden können, um spezielle Boni und Belohnungen im Slotpark Handyspiel zu erhalten.
 
 plugins:
@@ -12,3 +10,6 @@ plugins:
 collections:
   pages:
     output: true
+  posts:
+    output: true
+    permalink: /:year/:month/:title.html
