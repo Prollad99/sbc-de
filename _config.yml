@@ -13,3 +13,6 @@ collections:
   pages:
     output: true
 
+collections:
+  posts:
+    output: true
