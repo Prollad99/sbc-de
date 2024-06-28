@@ -12,4 +12,3 @@ collections:
     output: true
   posts:
     output: true
-    permalink: /:year/:month/:title.html
