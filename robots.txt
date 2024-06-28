@@ -1,3 +1,6 @@
+# robots.txt
+
 User-agent: *
-Disallow: /admin/
-Allow: /
+Disallow: /
+
+Sitemap: https://slotparkbonuscode.de/sitemap.xml
