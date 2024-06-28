@@ -24,7 +24,7 @@ Spezielle Links helfen Ihnen, Freunde zu Slotpark einzuladen.
 
 Jeder spezielle Link kann von bis zu zehn Spielern verwendet werden. Wenn Sie später mehr Freunde einladen möchten, können Sie einen neuen Link erstellen und ihn über die Schaltfläche im Abschnitt "Freunde" teilen.
 
-![Slotpark Freundesliste Anleitung](/asset/images/Freunde-einladen1.jpg)
+![Slotpark Freundesliste Anleitung](/assets/images/Freunde-einladen1.jpg)
 
 ## Kann ich Freunde aus meiner Freundesliste löschen?
 
